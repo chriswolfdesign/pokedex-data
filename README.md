@@ -6,6 +6,17 @@
 This repository is used to hold a backup of the MySQL Database used in my Pokedex
 project.  
 
+### Database details
+This database is still a work in progress.
+
+The contained pokemon are:
+* The Kanto starters and their evolutions (1 - 9 in the National Dex)
+
+The following data is stored on these pokemon:
+* Types
+* Abilities (including hidden abilities)
+* Egg groups
+
 ### Installation
 To begin the installation of this database, begin by creating a database 
 specifically for this project.  It is recommended to use the database name 
